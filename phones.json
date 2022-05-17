@@ -1,0 +1,28 @@
+{
+   "phones":[
+        {
+            "id":1,
+            "ad":"pocophone",
+            "model":"x4 pro",
+            "fiyat":6700,
+            "renk":"green",
+            "foto":"img/p1.jpg"
+        },
+        {
+            "id":2,
+            "ad":"xiaomi",
+            "model":"note11 pro",
+            "fiyat":11100,
+            "renk":"purple",
+            "foto":"img/p2.jpg"
+        },
+        {
+            "id":3,
+            "ad":"apple",
+            "model":"iphone 5",
+            "fiyat":3600,
+            "renk":"yellow",
+            "foto":"img/p3.jpg"
+        }
+   ]
+}
